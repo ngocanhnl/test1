@@ -1,0 +1,22 @@
+[
+    {
+       "id":1,
+       "text":"Bạn là sinh viên IT đã từng học lập trình nhưng vẫn chưa có được nền tảng kỹ thuật lập trình vững chắc và tư duy giải quyết bài toán",
+       "img": "pictures/pic1.png" 
+    },
+    {
+        "id":2,
+        "text":"Bạn là sinh viên các ngành học khác muốn theo ngành IT và muốn trở thành một lập trình viên trong tương lai",
+        "img": "pictures/pic2.png" 
+     },
+     {
+        "id":3,
+        "text":"Bạn gặp khó khăn khi tự học do không có người định hướng, hướng dẫn và kèm cặp dẫn đến chán nản và dễ bỏ cuộc",
+        "img": "pictures/pic3.png" 
+     },
+     {
+        "id":4,
+        "text":"Điều kiện của bạn không cho phép để có thể học lập trình trực tiếp tại các trung tâm ở các thành phố lớn.",
+        "img": "pictures/pic4.png" 
+     }
+]
